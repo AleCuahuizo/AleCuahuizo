@@ -1,8 +1,8 @@
 <!-- Portada -->
 
-<img src="assets/portada.jpg" alt="banner">
+<img src="assets/portada.png" alt="banner">
 
-<h1>👋 <strong>Hola, bienvenido a mi repositorio de proyectos</strong> </h1>
+<h1 align="center">👋 <strong>Hola, bienvenido a mi repositorio de proyectos</strong> </h1>
 
 <!-- Sobre mi -->
 <h3 align="center"> <strong>Creo que los datos, cuando se entienden y se comunican bien, pueden convertirse en una poderosa herramienta para tomar mejores decisiones.</strong></h3>
