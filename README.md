@@ -1,15 +1,12 @@
 <!-- Portada -->
 
+<img src="assets/portada.jpg" alt="banner">
 
-<h1>👋 <strong>Bienvenido a mi repositorio de proyectos</strong> </h1>
-
-<h1 align="center"> <strong>Actuaria | Data Analyst</strong></h1>
-
+<h1>👋 <strong>Hola, bienvenido a mi repositorio de proyectos</strong> </h1>
 
 <!-- Sobre mi -->
-<h2> Sobre mí</h2>
+<h3 align="center"> <strong>Creo que los datos, cuando se entienden y se comunican bien, pueden convertirse en una poderosa herramienta para tomar mejores decisiones.</strong></h3>
 
-Creo que los datos, cuando se entienden y se comunican bien, pueden convertirse en una poderosa herramienta para tomar mejores decisiones.
 
 Soy Licenciada en Actuaría, con formación en Análisis de Datos. Actualmente trabajo con Python, SQL y Power BI, transformando datos crudos en insights claros, accionables y visuales.
 
